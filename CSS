@@ -55,7 +55,7 @@ span {
 	width: 100%;
 }
 
-/* Desktop PC view */
+/* PC view */
 
 @media (min-width: 992px) {
  
@@ -65,7 +65,7 @@ span {
 	}
 }
 
-/* Tablet PC view */
+/* Tablet view */
 @media (min-width: 768px) and (max-width: 991px) {
  
   .col-md-6 {
@@ -77,7 +77,7 @@ span {
     float: left;
   }
 }
-/* Cell phone view */
+/* Mobile view */
 @media (max-width: 767px)  {
   
   .col-sx-12 {
